@@ -1,2 +1,2 @@
-# dna_data_storage_papers
+# DNA Data Storage Papers
 A repository of all DNA Data Storage Publications  
